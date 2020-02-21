@@ -1,0 +1,59 @@
+10k---------------------------------------------------
+naive_bayes model accuracy  : 0.835972
+random_forest model accuracy  : 0.663746
+linear_SVC model accuracy  : 0.811365
+gradient_boosted_tree model accuracy  : 0.725296
+naive_bayes train time      : 3.854899
+random_forest train time      : 123.410839
+linear_SVC train time      : 180.843782
+gradient_boosted_tree train time      : 367.841380
+
+20k---------------------------------------------------
+naive_bayes model accuracy  : 0.860049
+random_forest model accuracy  : 0.646830
+linear_SVC model accuracy  : 0.837151
+gradient_boosted_tree model accuracy  : 0.745277
+naive_bayes train time      : 5.102865
+random_forest train time      : 195.156193
+linear_SVC train time      : 310.532883
+gradient_boosted_tree train time      : 618.261836
+
+30k---------------------------------------------------
+naive_bayes model accuracy  : 0.878311
+random_forest model accuracy  : 0.665542
+linear_SVC model accuracy  : 0.860753
+gradient_boosted_tree model accuracy  : 0.749037
+naive_bayes train time      : 6.353689
+random_forest train time      : 270.597197
+linear_SVC train time      : 454.295745
+gradient_boosted_tree train time      : 796.224929
+
+40k---------------------------------------------------
+naive_bayes model accuracy  : 0.902950
+random_forest model accuracy  : 0.713215
+linear_SVC model accuracy  : 0.907803
+gradient_boosted_tree model accuracy  : 0.742129
+naive_bayes train time      : 6.678290
+random_forest train time      : 325.994297
+linear_SVC train time      : 585.235618
+gradient_boosted_tree train time      : 942.653721
+
+50k---------------------------------------------------
+naive_bayes model accuracy  : 0.911023
+random_forest model accuracy  : 0.707077
+linear_SVC model accuracy  : 0.934619
+gradient_boosted_tree model accuracy  : 0.741906
+naive_bayes train time      : 8.816955
+random_forest train time      : 399.921631
+linear_SVC train time      : 777.502382
+gradient_boosted_tree train time      : 1064.132052
+
+full--------------------------------------------------
+naive_bayes model accuracy  : 0.911108
+random_forest model accuracy  : 0.723214
+linear_SVC model accuracy  : 0.945845
+gradient_boosted_tree model accuracy  : 0.741221
+naive_bayes train time      : 7.719640
+random_forest train time      : 423.101722
+linear_SVC train time      : 803.289576
+gradient_boosted_tree train time      : 1193.619862
